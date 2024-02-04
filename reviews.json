@@ -1,0 +1,24 @@
+{
+  "reviews": [
+    {
+      "text": "This is demo review 2",
+      "rating": 8,
+      "id": 9
+    },
+    {
+      "text": "This is demo review 2",
+      "rating": 6,
+      "id": 10
+    },
+    {
+      "text": "This is demo review 3",
+      "rating": 8,
+      "id": 11
+    },
+    {
+      "text": "This is demo review 4",
+      "rating": 10,
+      "id": 12
+    }
+  ]
+}
